@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/resonate-coding-test/static/css/main.05df8bc9.chunk.css",
+    "main.js": "/resonate-coding-test/static/js/main.33b10b41.chunk.js",
+    "main.js.map": "/resonate-coding-test/static/js/main.33b10b41.chunk.js.map",
+    "runtime-main.js": "/resonate-coding-test/static/js/runtime-main.f0a612c3.js",
+    "runtime-main.js.map": "/resonate-coding-test/static/js/runtime-main.f0a612c3.js.map",
+    "static/js/2.92cd6d6e.chunk.js": "/resonate-coding-test/static/js/2.92cd6d6e.chunk.js",
+    "static/js/2.92cd6d6e.chunk.js.map": "/resonate-coding-test/static/js/2.92cd6d6e.chunk.js.map",
+    "static/js/3.1c5a62c1.chunk.js": "/resonate-coding-test/static/js/3.1c5a62c1.chunk.js",
+    "static/js/3.1c5a62c1.chunk.js.map": "/resonate-coding-test/static/js/3.1c5a62c1.chunk.js.map",
+    "index.html": "/resonate-coding-test/index.html",
+    "static/css/main.05df8bc9.chunk.css.map": "/resonate-coding-test/static/css/main.05df8bc9.chunk.css.map",
+    "static/js/2.92cd6d6e.chunk.js.LICENSE.txt": "/resonate-coding-test/static/js/2.92cd6d6e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f0a612c3.js",
+    "static/js/2.92cd6d6e.chunk.js",
+    "static/css/main.05df8bc9.chunk.css",
+    "static/js/main.33b10b41.chunk.js"
+  ]
+}
